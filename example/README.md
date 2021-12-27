@@ -1,4 +1,4 @@
-# section_view_sample
+# marquee_vertical_sample
 
 A new Flutter project.
 

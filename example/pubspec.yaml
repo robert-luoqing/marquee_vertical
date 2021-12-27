@@ -1,4 +1,4 @@
-name: section_view_sample
+name: marquee_vertical_example
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -35,7 +35,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   scrollable_positioned_list: ^0.2.3
-  section_view:
+  marquee_vertical:
     path: ../
 
 dev_dependencies:
@@ -61,8 +61,8 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  assets:
-      - assets/
+  # assets:
+  #     - assets/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.

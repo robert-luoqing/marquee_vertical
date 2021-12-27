@@ -1,6 +1,6 @@
 {
-    "name": "section_view_sample",
-    "short_name": "section_view_sample",
+    "name": "marquee_vertical_sample",
+    "short_name": "marquee_vertical_sample",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

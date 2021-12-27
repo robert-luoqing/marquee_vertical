@@ -1,4 +1,4 @@
-package com.example.section_view_sample
+package com.example.marquee_vertical_sample
 
 import io.flutter.embedding.android.FlutterActivity
 

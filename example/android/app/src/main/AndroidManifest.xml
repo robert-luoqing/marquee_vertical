@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.section_view_sample">
+    package="com.example.marquee_vertical_sample">
    <application
-        android:label="section_view_sample"
+        android:label="marquee_vertical_sample"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
