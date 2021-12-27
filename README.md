@@ -7,7 +7,7 @@ Vertical marquee view
 
 ## Screen
 
-![](screens/screen1.png)
+![](screens/screen.gif)
 
 ## Usage
 
